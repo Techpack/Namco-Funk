@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dots.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Dot0000" x="0" y="0" width="2561" height="2561"/>
+	<SubTexture name="Dot0001" x="0" y="0" width="2561" height="2561"/>
+	<SubTexture name="Dot0002" x="2561" y="0" width="2561" height="2561"/>
+	<SubTexture name="Dot0003" x="2561" y="0" width="2561" height="2561"/>
+	<SubTexture name="Dot0004" x="5122" y="0" width="2561" height="2561"/>
+	<SubTexture name="Dot0005" x="5122" y="0" width="2561" height="2561"/>
+	<SubTexture name="Dot0006" x="5122" y="0" width="2561" height="2561"/>
+	<SubTexture name="Dot0007" x="5122" y="0" width="2561" height="2561"/>
+	<SubTexture name="Dot0008" x="5122" y="0" width="2561" height="2561"/>
+	<SubTexture name="Dot0009" x="5122" y="0" width="2561" height="2561"/>
+	<SubTexture name="Dot0010" x="5122" y="0" width="2561" height="2561"/>
+	<SubTexture name="Dot0011" x="5122" y="0" width="2561" height="2561"/>
+	<SubTexture name="Dot0012" x="5122" y="0" width="2561" height="2561"/>
+	<SubTexture name="Dot0013" x="5122" y="0" width="2561" height="2561"/>
+	<SubTexture name="Dot0014" x="5122" y="0" width="2561" height="2561"/>
+</TextureAtlas>

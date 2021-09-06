@@ -1,0 +1,8 @@
+Tutorial:gf:1
+World:pac:1
+Block Town:pac:1
+PAC-MAN:pac:1
+TECHPACK:techpack:1
+Dig Dug:taizo:2
+Rally:taizo:2
+Annalynn:anna:2

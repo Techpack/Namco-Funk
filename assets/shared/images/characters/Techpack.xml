@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Techpack.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TECHPACK IDLE0000" x="0" y="0" width="312" height="452"/>
+	<SubTexture name="TECHPACK IDLE0001" x="0" y="0" width="312" height="452"/>
+	<SubTexture name="TECHPACK IDLE0002" x="0" y="0" width="312" height="452"/>
+	<SubTexture name="TECHPACK IDLE0003" x="0" y="0" width="312" height="452"/>
+	<SubTexture name="TECHPACK IDLE0004" x="0" y="0" width="312" height="452"/>
+	<SubTexture name="TECHPACK IDLE0005" x="312" y="0" width="312" height="439" frameX="0" frameY="-13" frameWidth="312" frameHeight="452"/>
+	<SubTexture name="TECHPACK IDLE0006" x="624" y="0" width="312" height="449" frameX="0" frameY="-3" frameWidth="312" frameHeight="452"/>
+	<SubTexture name="TECHPACK IDLE0007" x="936" y="0" width="312" height="452"/>
+	<SubTexture name="TECHPACK IDLE0008" x="936" y="0" width="312" height="452"/>
+	<SubTexture name="TECHPACK IDLE0009" x="936" y="0" width="312" height="452"/>
+	<SubTexture name="TECHPACK IDLE0010" x="936" y="0" width="312" height="452"/>
+	<SubTexture name="TECHPACK IDLE0011" x="936" y="0" width="312" height="452"/>
+	<SubTexture name="TECHPACK IDLE0012" x="936" y="0" width="312" height="452"/>
+	<SubTexture name="TECHPACK IDLE0013" x="936" y="0" width="312" height="452"/>
+	<SubTexture name="TECHPACK IDLE0014" x="936" y="0" width="312" height="452"/>
+	<SubTexture name="TECHPACK NOTE DOWN0000" x="1248" y="0" width="267" height="475" frameX="-1" frameY="0" frameWidth="268" frameHeight="475"/>
+	<SubTexture name="TECHPACK NOTE DOWN0001" x="1248" y="0" width="267" height="475" frameX="-1" frameY="0" frameWidth="268" frameHeight="475"/>
+	<SubTexture name="TECHPACK NOTE DOWN0002" x="1515" y="0" width="268" height="467" frameX="0" frameY="-7" frameWidth="268" frameHeight="475"/>
+	<SubTexture name="TECHPACK NOTE DOWN0003" x="1515" y="0" width="268" height="467" frameX="0" frameY="-7" frameWidth="268" frameHeight="475"/>
+	<SubTexture name="TECHPACK NOTE DOWN0004" x="1515" y="0" width="268" height="467" frameX="0" frameY="-7" frameWidth="268" frameHeight="475"/>
+	<SubTexture name="TECHPACK NOTE DOWN0005" x="1515" y="0" width="268" height="467" frameX="0" frameY="-7" frameWidth="268" frameHeight="475"/>
+	<SubTexture name="TECHPACK NOTE DOWN0006" x="1515" y="0" width="268" height="467" frameX="0" frameY="-7" frameWidth="268" frameHeight="475"/>
+	<SubTexture name="TECHPACK NOTE DOWN0007" x="1515" y="0" width="268" height="467" frameX="0" frameY="-7" frameWidth="268" frameHeight="475"/>
+	<SubTexture name="TECHPACK NOTE DOWN0008" x="1515" y="0" width="268" height="467" frameX="0" frameY="-7" frameWidth="268" frameHeight="475"/>
+	<SubTexture name="TECHPACK NOTE DOWN0009" x="1515" y="0" width="268" height="467" frameX="0" frameY="-7" frameWidth="268" frameHeight="475"/>
+	<SubTexture name="TECHPACK NOTE DOWN0010" x="1515" y="0" width="268" height="467" frameX="0" frameY="-7" frameWidth="268" frameHeight="475"/>
+	<SubTexture name="TECHPACK NOTE DOWN0011" x="1515" y="0" width="268" height="467" frameX="0" frameY="-7" frameWidth="268" frameHeight="475"/>
+	<SubTexture name="TECHPACK NOTE DOWN0012" x="1515" y="0" width="268" height="467" frameX="0" frameY="-7" frameWidth="268" frameHeight="475"/>
+	<SubTexture name="TECHPACK NOTE DOWN0013" x="1515" y="0" width="268" height="467" frameX="0" frameY="-7" frameWidth="268" frameHeight="475"/>
+	<SubTexture name="TECHPACK NOTE DOWN0014" x="1515" y="0" width="268" height="467" frameX="0" frameY="-7" frameWidth="268" frameHeight="475"/>
+	<SubTexture name="TECHPACK NOTE LEFT0000" x="0" y="475" width="319" height="423" frameX="0" frameY="0" frameWidth="321" frameHeight="424"/>
+	<SubTexture name="TECHPACK NOTE LEFT0001" x="0" y="475" width="319" height="423" frameX="0" frameY="0" frameWidth="321" frameHeight="424"/>
+	<SubTexture name="TECHPACK NOTE LEFT0002" x="319" y="475" width="317" height="424" frameX="-4" frameY="0" frameWidth="321" frameHeight="424"/>
+	<SubTexture name="TECHPACK NOTE LEFT0003" x="319" y="475" width="317" height="424" frameX="-4" frameY="0" frameWidth="321" frameHeight="424"/>
+	<SubTexture name="TECHPACK NOTE LEFT0004" x="319" y="475" width="317" height="424" frameX="-4" frameY="0" frameWidth="321" frameHeight="424"/>
+	<SubTexture name="TECHPACK NOTE LEFT0005" x="319" y="475" width="317" height="424" frameX="-4" frameY="0" frameWidth="321" frameHeight="424"/>
+	<SubTexture name="TECHPACK NOTE LEFT0006" x="319" y="475" width="317" height="424" frameX="-4" frameY="0" frameWidth="321" frameHeight="424"/>
+	<SubTexture name="TECHPACK NOTE LEFT0007" x="319" y="475" width="317" height="424" frameX="-4" frameY="0" frameWidth="321" frameHeight="424"/>
+	<SubTexture name="TECHPACK NOTE LEFT0008" x="319" y="475" width="317" height="424" frameX="-4" frameY="0" frameWidth="321" frameHeight="424"/>
+	<SubTexture name="TECHPACK NOTE LEFT0009" x="319" y="475" width="317" height="424" frameX="-4" frameY="0" frameWidth="321" frameHeight="424"/>
+	<SubTexture name="TECHPACK NOTE LEFT0010" x="319" y="475" width="317" height="424" frameX="-4" frameY="0" frameWidth="321" frameHeight="424"/>
+	<SubTexture name="TECHPACK NOTE LEFT0011" x="319" y="475" width="317" height="424" frameX="-4" frameY="0" frameWidth="321" frameHeight="424"/>
+	<SubTexture name="TECHPACK NOTE LEFT0012" x="319" y="475" width="317" height="424" frameX="-4" frameY="0" frameWidth="321" frameHeight="424"/>
+	<SubTexture name="TECHPACK NOTE LEFT0013" x="319" y="475" width="317" height="424" frameX="-4" frameY="0" frameWidth="321" frameHeight="424"/>
+	<SubTexture name="TECHPACK NOTE LEFT0014" x="319" y="475" width="317" height="424" frameX="-4" frameY="0" frameWidth="321" frameHeight="424"/>
+	<SubTexture name="TECHPACK NOTE LEFT0015" x="319" y="475" width="317" height="424" frameX="-4" frameY="0" frameWidth="321" frameHeight="424"/>
+	<SubTexture name="TECHPACK NOTE LEFT0016" x="319" y="475" width="317" height="424" frameX="-4" frameY="0" frameWidth="321" frameHeight="424"/>
+	<SubTexture name="TECHPACK NOTE LEFT0017" x="319" y="475" width="317" height="424" frameX="-4" frameY="0" frameWidth="321" frameHeight="424"/>
+	<SubTexture name="TECHPACK NOTE LEFT0018" x="319" y="475" width="317" height="424" frameX="-4" frameY="0" frameWidth="321" frameHeight="424"/>
+	<SubTexture name="TECHPACK NOTE LEFT0019" x="319" y="475" width="317" height="424" frameX="-4" frameY="0" frameWidth="321" frameHeight="424"/>
+	<SubTexture name="TECHPACK NOTE LEFT0020" x="319" y="475" width="317" height="424" frameX="-4" frameY="0" frameWidth="321" frameHeight="424"/>
+	<SubTexture name="TECHPACK NOTE LEFT0021" x="319" y="475" width="317" height="424" frameX="-4" frameY="0" frameWidth="321" frameHeight="424"/>
+	<SubTexture name="TECHPACK NOTE LEFT0022" x="319" y="475" width="317" height="424" frameX="-4" frameY="0" frameWidth="321" frameHeight="424"/>
+	<SubTexture name="TECHPACK NOTE LEFT0023" x="319" y="475" width="317" height="424" frameX="-4" frameY="0" frameWidth="321" frameHeight="424"/>
+	<SubTexture name="TECHPACK NOTE LEFT0024" x="319" y="475" width="317" height="424" frameX="-4" frameY="0" frameWidth="321" frameHeight="424"/>
+	<SubTexture name="TECHPACK NOTE LEFT0025" x="319" y="475" width="317" height="424" frameX="-4" frameY="0" frameWidth="321" frameHeight="424"/>
+	<SubTexture name="TECHPACK NOTE LEFT0026" x="319" y="475" width="317" height="424" frameX="-4" frameY="0" frameWidth="321" frameHeight="424"/>
+	<SubTexture name="TECHPACK NOTE LEFT0027" x="319" y="475" width="317" height="424" frameX="-4" frameY="0" frameWidth="321" frameHeight="424"/>
+	<SubTexture name="TECHPACK NOTE LEFT0028" x="319" y="475" width="317" height="424" frameX="-4" frameY="0" frameWidth="321" frameHeight="424"/>
+	<SubTexture name="TECHPACK NOTE LEFT0029" x="319" y="475" width="317" height="424" frameX="-4" frameY="0" frameWidth="321" frameHeight="424"/>
+	<SubTexture name="TECHPACK NOTE RIGHT0000" x="636" y="475" width="292" height="432" frameX="-13" frameY="-11" frameWidth="305" frameHeight="443"/>
+	<SubTexture name="TECHPACK NOTE RIGHT0001" x="636" y="475" width="292" height="432" frameX="-13" frameY="-11" frameWidth="305" frameHeight="443"/>
+	<SubTexture name="TECHPACK NOTE RIGHT0002" x="928" y="475" width="300" height="443" frameX="0" frameY="0" frameWidth="305" frameHeight="443"/>
+	<SubTexture name="TECHPACK NOTE RIGHT0003" x="928" y="475" width="300" height="443" frameX="0" frameY="0" frameWidth="305" frameHeight="443"/>
+	<SubTexture name="TECHPACK NOTE RIGHT0004" x="928" y="475" width="300" height="443" frameX="0" frameY="0" frameWidth="305" frameHeight="443"/>
+	<SubTexture name="TECHPACK NOTE RIGHT0005" x="928" y="475" width="300" height="443" frameX="0" frameY="0" frameWidth="305" frameHeight="443"/>
+	<SubTexture name="TECHPACK NOTE RIGHT0006" x="928" y="475" width="300" height="443" frameX="0" frameY="0" frameWidth="305" frameHeight="443"/>
+	<SubTexture name="TECHPACK NOTE RIGHT0007" x="928" y="475" width="300" height="443" frameX="0" frameY="0" frameWidth="305" frameHeight="443"/>
+	<SubTexture name="TECHPACK NOTE RIGHT0008" x="928" y="475" width="300" height="443" frameX="0" frameY="0" frameWidth="305" frameHeight="443"/>
+	<SubTexture name="TECHPACK NOTE RIGHT0009" x="928" y="475" width="300" height="443" frameX="0" frameY="0" frameWidth="305" frameHeight="443"/>
+	<SubTexture name="TECHPACK NOTE RIGHT0010" x="928" y="475" width="300" height="443" frameX="0" frameY="0" frameWidth="305" frameHeight="443"/>
+	<SubTexture name="TECHPACK NOTE RIGHT0011" x="928" y="475" width="300" height="443" frameX="0" frameY="0" frameWidth="305" frameHeight="443"/>
+	<SubTexture name="TECHPACK NOTE RIGHT0012" x="928" y="475" width="300" height="443" frameX="0" frameY="0" frameWidth="305" frameHeight="443"/>
+	<SubTexture name="TECHPACK NOTE RIGHT0013" x="928" y="475" width="300" height="443" frameX="0" frameY="0" frameWidth="305" frameHeight="443"/>
+	<SubTexture name="TECHPACK NOTE RIGHT0014" x="1228" y="475" width="300" height="443" frameX="0" frameY="0" frameWidth="305" frameHeight="443"/>
+	<SubTexture name="TECHPACK NOTE UP0000" x="1528" y="475" width="291" height="425"/>
+	<SubTexture name="TECHPACK NOTE UP0001" x="1528" y="475" width="291" height="425"/>
+	<SubTexture name="TECHPACK NOTE UP0002" x="1528" y="475" width="291" height="425"/>
+	<SubTexture name="TECHPACK NOTE UP0003" x="1528" y="475" width="291" height="425"/>
+	<SubTexture name="TECHPACK NOTE UP0004" x="1528" y="475" width="291" height="425"/>
+	<SubTexture name="TECHPACK NOTE UP0005" x="1528" y="475" width="291" height="425"/>
+	<SubTexture name="TECHPACK NOTE UP0006" x="1528" y="475" width="291" height="425"/>
+	<SubTexture name="TECHPACK NOTE UP0007" x="1528" y="475" width="291" height="425"/>
+	<SubTexture name="TECHPACK NOTE UP0008" x="1528" y="475" width="291" height="425"/>
+	<SubTexture name="TECHPACK NOTE UP0009" x="1528" y="475" width="291" height="425"/>
+	<SubTexture name="TECHPACK NOTE UP0010" x="1528" y="475" width="291" height="425"/>
+	<SubTexture name="TECHPACK NOTE UP0011" x="1528" y="475" width="291" height="425"/>
+	<SubTexture name="TECHPACK NOTE UP0012" x="1528" y="475" width="291" height="425"/>
+	<SubTexture name="TECHPACK NOTE UP0013" x="1528" y="475" width="291" height="425"/>
+	<SubTexture name="TECHPACK NOTE UP0014" x="1528" y="475" width="291" height="425"/>
+</TextureAtlas>
